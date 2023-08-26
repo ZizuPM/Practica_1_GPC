@@ -1,7 +1,7 @@
 # Taller de Sistemas Operativos, Redes de Cómputo, Sistemas Distribuidos y Manejo de Información
 ![LOGO FC](https://github.com/ZizuPM/Practica1/blob/main/img_logoFC_2019.png)
 # Practica I: _Servidor web en Google Cloud Platform_.
-![ORACLE CLOUD](https://github.com/ZizuPM/Practica1/blob/main/Oracle-Cloud.png)
+![GCP_LOGO](https://github.com/ZizuPM/Practica_1_GPC/blob/main/gcp.png)
 ## Objetivo:
 El alumno instalará el servidor web Apache HTTPD, y publicará un formulario HTML en este servidor. Además, se familiarizará con el uso de los servicios GCP, VM Instances, Firewall Rules y Static public IP, proporcionados por Google Cloud.
 
