@@ -34,13 +34,8 @@ NOTA: La guia solo sirve como material de apoyo, mas no contiene en su totalidad
 
 ## Notas adicionales
 1. La practica se realizara de forma individual.
-2. El formato de entrega es PDF.
-3. Registrar en el reporte los pasos que sean considerados necesarios para explicar cómo se realizó la práctica, incluir capturas de pantalla que justifiquen los resultados obtenidos.
-4. Incluir las respuestas del Cuestionario en el reporte.
-5. Se pueden agregar posibles errores, complicaciones, opiniones, críticas de la práctica o del laboratorio, o cualquier comentario relativo a la práctica.
-6. Subir los archivos relacionados con la práctica a Moodle en formato pdf
-7. El reporte se entrega de manera individual.
-8. Registrar en el reporte los pasos que sean considerados necesarios para explicar cómo se realizó la práctica, incluir capturas de pantalla que justifiquen los resultados obtenidos.
-9. Incluir las respuestas del Cuestionario en el reporte.
-10. Se pueden agregar posibles errores, complicaciones, opiniones, críticas de la práctica o del laboratorio, o cualquier comentario relativo a la práctica.
-11. Subir los archivos relacionados con la práctica a Moodle en formato pdf
+2. El reporte se entrega de manera individual.
+3. El formato de entrega es PDF y se debe de subir a Moodle. -> https://moodle.fciencias.unam.mx/
+4. Registrar en el reporte los pasos que sean considerados necesarios para explicar cómo se realizó la práctica, incluir capturas de pantalla que justifiquen los resultados obtenidos.
+5. Incluir las respuestas del Cuestionario en el reporte.
+6. Se pueden agregar posibles errores, complicaciones, opiniones, críticas de la práctica o del laboratorio, o cualquier comentario relativo a la práctica.
