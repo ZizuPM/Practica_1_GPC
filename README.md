@@ -24,6 +24,7 @@ HTTP para ser enviado de manera cifrada.
 
 ## Guia para su desarrollo
 Se ha desarrollado una guia para familiarizarse con el entorno de Google Cloud y pueden llevar a acabo la practica: https://docs.google.com/document/d/1A4BtYWFk_T-M0Te5sllWpwZidwBAyO7XtjZURIcuYdY/edit?usp=sharing
+
 NOTA: La guia solo sirve como material de apoyo, mas no contiene en su totalidad los pasos para llevar acabo la practica.
 
 ## Evaluación
